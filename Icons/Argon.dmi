@@ -1,0 +1,29 @@
+‰PNG
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "Hud"
+#define FILE_DIR "Jutsus"
+#define FILE_DIR "Jutsus/Bijuu"
+#define FILE_DIR "Jutsus/Susanoo Forms"
+#define FILE_DIR "Jutsus/Susanoo Forms/Itachi"
+#define FILE_DIR "Jutsus/Susanoo Forms/Madara"
+#define FILE_DIR "Jutsus/Susanoo Forms/Other"
+#define FILE_DIR "Jutsus/Susanoo Forms/Sasuke"
+#define FILE_DIR "Jutsus/Susanoo Forms/Shisui"
+#define FILE_DIR "New Base"
+#define FILE_DIR "New Base/Clothing"
+#define FILE_DIR "New Base/Clothing/Headbands"
+#define FILE_DIR "New Base/Clothing/Member Shop Clothing"
+#define FILE_DIR "New Base/Clothing/Official Clothing"
+#define FILE_DIR "New Base/Hair"
+#define FILE_DIR "New Base/Weapons"
+#define FILE_DIR "NPCs"
+#define FILE_DIR "Puppets"
+#define FILE_DIR "Puppets/RavenEquipment"
+// END_FILE_DIR
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+// BEGIN_INCLUDE
+// END_INCLUDE

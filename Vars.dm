@@ -1,0 +1,59 @@
+mob
+	var
+		tmp/Frozen=0
+		rank="Civilian"
+		clan="None"
+		village="None"
+		health=1000
+		Mhealth=1000
+		chakra=5000//was 1000
+		Mchakra=5000//was 1000
+		willpower=0.25
+		bounty=0
+		tai=10
+		nin=10
+		gen=10
+		Mtai=10
+		Mnin=10
+		Mgen=10//make it so that stats are like nff ones but the max stats are just somethign to come back to is all, like a save point for boosts stc
+		dodgerate=0.1//max at 10, sharingan raises it by 0.5 when 2 tome and 1 when its 3 tome, its mutiplied by 10 to detemine dodge cgance
+		wounds=0
+		run=0
+		stomach=""
+		stomachamm=100
+		stomachMamm=200
+		admin=0
+		tmp/kaiten=0
+		tmp/ko=0
+		tmp/dead=0
+		tmp/stun=0
+		tmp/resting=0
+		tmp/CanRest=1
+		xco
+		yco
+		zco
+		mute=0
+		yen=7500
+		tmp/ingenjutsu=0
+		hasdemon=0
+		owner=""//for clones etc
+		tmp/InCont=0
+		waterwalk=0
+		tmp/swimming=0
+		path=""
+		kills=0
+		deaths=0
+		sharkskin=0
+		immortality=0
+		bonuspoints=0
+		realname=""
+		loginmge=""
+		taiknowledge=0
+		ninknowledge=0
+		genknowledge=0
+		mokutonknowledge=0
+		jintonknowledge=0
+		lavaknowledge=0
+		boilknowledge=0
+		style="Basic"  //gonna need it for hyuuga etc
+		fake=0//--<---<--<--<--<--<-------NPC ONLY--<--<--<--<--<----
